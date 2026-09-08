@@ -1,0 +1,25 @@
+{
+  "name": "my-first-project-for-mobile",
+  "version": "1.0.0",
+  "description": "project for mobile class",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node ./dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adrianne05/my-first-project-for-mobile.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Adrianne05/my-first-project-for-mobile/issues"
+  },
+  "homepage": "https://github.com/Adrianne05/my-first-project-for-mobile#readme",
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}
